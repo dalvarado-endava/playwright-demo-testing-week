@@ -1,6 +1,6 @@
 import { test } from "@playwright/test";
 import { LoginPage } from "../Pages/login/LoginPage";
-import loginData from "../data/secret/loginData.json";
+import loginData from "../data/loginData.json";
 import { HeaderComponent } from "../Pages/components/HeaderComponent";
 
 test.describe("Login", () => {

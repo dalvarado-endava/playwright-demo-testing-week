@@ -4,7 +4,7 @@ import { HeaderComponent } from "../Pages/components/HeaderComponent";
 import { LoginPage } from "../Pages/login/LoginPage";
 import { ProductListPage } from "../Pages/productList/ProductListPage";
 
-import loginData from "../data/secret/loginData.json";
+import loginData from "../data/loginData.json";
 import { ProductType } from "../helpers/ProductType";
 import { ButtonType } from "../helpers/ButtonType";
 
